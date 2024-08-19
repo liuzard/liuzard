@@ -4,7 +4,7 @@
 
 [GitHub](https://github.com/liuzard)
 ｜
-[知乎｜](https://www.zhihu.com/people/liuzard)
+[知乎](https://www.zhihu.com/people/liuzard)
 ｜
 [CSDN](https://blog.csdn.net/u012995500?spm=1000.2115.3001.5343)
 
